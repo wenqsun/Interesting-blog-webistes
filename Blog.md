@@ -6,3 +6,6 @@ https://lilianweng.github.io/
 
 A personal blog website for NLP, mathematics, machine learning and life, the host of this website is a true master in computer science.
 https://spaces.ac.cn/
+
+A personal blog website of a PhD in CISPA, very interesting blogs!
+https://www.zuozuovera.com/
