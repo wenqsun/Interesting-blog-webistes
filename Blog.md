@@ -1,4 +1,4 @@
-A good website for learning programming and work in company, the host of this website is a worker in a Internet company.
+A good website for learning programming and work in company, the host of this website is a worker in an Internet company.
 https://tanqingbo.cn/
 
 A personal website for sharing some latest artificial intelligence theory and technology, the host of this website is a researcher in OpenAI.
