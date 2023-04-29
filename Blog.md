@@ -12,3 +12,6 @@ https://www.zuozuovera.com/
 
 A interesting website about Jeff Dean.
 https://www.informatika.bg/jeffdean
+
+A blog about Graph Neural Network.
+https://distill.pub/2021/gnn-intro/
