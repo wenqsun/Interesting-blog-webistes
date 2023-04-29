@@ -9,3 +9,6 @@ https://spaces.ac.cn/
 
 A personal blog website of a PhD in CISPA, very interesting blogs!
 https://www.zuozuovera.com/
+
+A interesting website about Jeff Dean
+https://www.informatika.bg/jeffdean
